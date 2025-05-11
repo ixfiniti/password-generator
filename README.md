@@ -1,6 +1,4 @@
-password-generator
-Perfect! Here's a solid starting point for your `README.md`—clean, beginner-friendly, and GitHub-ready.
-
+password-generator:
 
 
 📄 `README.md` Template for our very own Password Generator
